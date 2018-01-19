@@ -41,6 +41,7 @@ Visando manter o histórico de pessoas que já participaram do grupo, criamos es
 - Bruno Rafael Arico - IME
 - Deusany Junior - IME
 - Gabriel Capella - IME
+- Lucas Sung Jun Hong - IME
 - Marcelo Schmitt - IME
 
 ##### Segundo Semestre 2015
@@ -48,12 +49,14 @@ Visando manter o histórico de pessoas que já participaram do grupo, criamos es
 - Bruno Rafael Arico - IME
 - Deusany Junior - IME
 - Gabriel Capella - IME
+- Lucas Sung Jun Hong - IME
 - Marcelo Schmitt - IME
 
 ##### Primeiro Semestre 2015
 - Daniel Renjiffo - IME
 - Gabriel Capella - IME
 - Lucas Romão - IME
+- Lucas Sung Jun Hong - IME
 
 ##### Segundo Semestre 2014
 - Daniel Renjiffo - IME
@@ -61,6 +64,7 @@ Visando manter o histórico de pessoas que já participaram do grupo, criamos es
 - Gabriel Capella - IAG
 - Gustavo Estrela - IME
 - Lucas Romão - IME
+- Lucas Sung Jun Hong - IME
 
 ##### Primeiro Semestre 2014
 - Daniel Renjiffo - IME
@@ -68,9 +72,11 @@ Visando manter o histórico de pessoas que já participaram do grupo, criamos es
 - Gabriel Capella - IAG
 - Gustavo Estrela - IME
 - Lucas Romão - IME
+- Lucas Sung Jun Hong - IME
 
 ##### Segundo Semestre 2013
 - Daniel Renjiffo - IME
 - Deusany Junior - IME
 - Gustavo Estrela - IME
 - Lucas Romão - IME
+- Lucas Sung Jun Hong - IME
